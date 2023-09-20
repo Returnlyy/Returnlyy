@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-A student of Korea who studys computer science & programming.
+A student of Korea who studys computer science.
